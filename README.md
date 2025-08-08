@@ -3,7 +3,9 @@ MAR2 competition track3
 
 ## 安装依赖
 pip install -r requirements.txt
+
 sudo apt update
+
 sudo apt install ffmpeg
 
 ## 数据处理
